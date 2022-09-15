@@ -36,6 +36,18 @@ exports.up = function (knex) {
         .onUpdate("CASCADE")
         .onDelete("CASCADE");
       table.timestamp("updated_at").defaultTo(knex.fn.now());
+    })
+    .createTable("images", (table) => {
+      table.increments("id").primary();
+      table.string("images").notNullable();
+      table
+        .integer("chefs_id")
+        .unsigned()
+        .notNullable()
+        .references("id")
+        .inTable("chefs")
+        .onUpdate("CASCADE")
+        .onDelete("CASCADE");
     });
 };
 
@@ -43,5 +55,6 @@ exports.down = function (knex) {
   return knex.schema
     .dropTable("reviews")
     .dropTable("cuisines")
-    .dropTable("chefs");
+    .dropTable("chefs")
+    .dropTable("images");
 };

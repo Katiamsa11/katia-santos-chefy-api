@@ -9,6 +9,7 @@
     "dev": "npx nodemon index.js",
     "migrate": "knex migrate:latest",
     "migrate:down": "knex migrate:down",
+    "migrate:up": "knex migrate:up",
     "migrate:rollback": "knex migrate:rollback",
     "seed": "knex seed:run"
   },
