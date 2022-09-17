@@ -6,7 +6,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-01.jpg"
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-02.jpg"
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-03.jpg"
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image:  "http://localhost:8080/assets/chef-04.jpg"
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-05.jpg"
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-06.jpg"
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-07.jpg"
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-08.jpg"
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-09.jpg"
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-10.jpg"
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-11.jpg"
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-12.jpg"
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-01.jpg"
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-02.jpg"
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-03.jpg"
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-04.jpg"
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-05.jpg"
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-06.jpg"
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-07.jpg"
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-08.jpg"
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-09.jpg"
   },
   {
     id: 22,
@@ -195,7 +195,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-10.jpg"
   },
   {
     id: 23,
@@ -204,7 +204,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-11.jpg"
   },
   {
     id: 24,
@@ -213,7 +213,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-12.jpg"
   },
   {
     id: 25,
@@ -222,7 +222,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-01.jpg"
   },
   {
     id: 26,
@@ -231,7 +231,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-02.jpg"
   },
   {
     id: 27,
@@ -240,7 +240,7 @@ module.exports = [
     rating: 4.5,
     bio: "gsjgsjsgksgks",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-03.jpg"
   },
   {
     id: 28,
@@ -249,7 +249,7 @@ module.exports = [
     rating: 4.5,
     bio: "We don’t talk – we always let our food do the talking about our talent.",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-04.jpg"
   },
   {
     id: 29,
@@ -258,7 +258,7 @@ module.exports = [
     rating: 4.5,
     bio: "We will feel ill if we spend too much time out of the kitchen.",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-05.jpg"
   },
   {
     id: 30,
@@ -267,6 +267,6 @@ module.exports = [
     rating: 4.5,
     bio: "Boring recipes can make you sad, so always try to make some interesting cuisine.",
     longBio: "shshshsohsohsois",
-    image: "shkshkshks",
+    image: "http://localhost:8080/assets/chef-06.jpg"
   },
 ];
