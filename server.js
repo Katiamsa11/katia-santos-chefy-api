@@ -11,6 +11,10 @@ app.use(cors());
 
 app.use(express.json());
 
+// added middleware to allow to serve static files
+app.use("/assets", express.static("./assets"));
+app.use("/assets/food", express.static("./assets/food"));
+
 // //linked the warehouse routes
 app.use("/chefs", chefsRoutes);
 
