@@ -3,8 +3,12 @@ const knex = require("knex")(require("../knexfile"));
 
 router.route("/").get(async (req, res) => {
   try {
-    const chefsData = await knex.select("*").from("chefs");
-    res.json(chefsData);
+    const chefsData = await knex
+      .select("id", "name", "rating", "bio", "cuisine", "image")
+      .from("chefs");
+      const featuredChefs = chefsData
+        const nineChefs = featuredChefs.slice(0,9)
+    res.json(nineChefs);
   } catch (error) {
     res.status(500).json({ message: "unable to retrieve data" });
   }
@@ -29,7 +33,6 @@ router.route("/data/:id").get(async (req, res) => {
   try {
     const data = await knex
       .from("chefs")
-      .innerJoin("cuisines", "chefs.id", "cuisines.chefs_id")
       .innerJoin("images", "chefs.id", "images.chefs_id")
       .innerJoin("reviews", "chefs.id", "reviews.chefs_id")
       .where("chefs.id", req.params.id);

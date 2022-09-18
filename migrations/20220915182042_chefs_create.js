@@ -4,6 +4,7 @@ exports.up = function (knex) {
       table.increments("id").primary();
       table.string("name").notNullable();
       table.string("location").notNullable();
+      table.string("cuisine").notNullable();
       table.integer("rating").notNullable().defaultTo(0);
       table.string("bio").notNullable();
       table.string("longBio").notNullable();
@@ -12,21 +13,8 @@ exports.up = function (knex) {
     })
     .createTable("reviews", (table) => {
       table.increments("id").primary();
-      table.string("name").notNullable();
+      table.string("reviewer").notNullable();
       table.string("description").notNullable();
-      table
-        .integer("chefs_id")
-        .unsigned()
-        .notNullable()
-        .references("id")
-        .inTable("chefs")
-        .onUpdate("CASCADE")
-        .onDelete("CASCADE");
-      table.timestamp("updated_at").defaultTo(knex.fn.now());
-    })
-    .createTable("cuisines", (table) => {
-      table.increments("id").primary();
-      table.string("name").notNullable();
       table
         .integer("chefs_id")
         .unsigned()
