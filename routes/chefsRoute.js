@@ -4,11 +4,9 @@ const knex = require("knex")(require("../knexfile"));
 router.route("/").get(async (req, res) => {
   try {
     const chefsData = await knex
-      .select("id", "name", "rating", "bio", "cuisine", "image")
+      .select("id", "name", "rating", "bio", "cuisine", "image", "location")
       .from("chefs");
-      const featuredChefs = chefsData
-        const nineChefs = featuredChefs.slice(0,9)
-    res.json(nineChefs);
+    res.json(chefsData);
   } catch (error) {
     res.status(500).json({ message: "unable to retrieve data" });
   }
