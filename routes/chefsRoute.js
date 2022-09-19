@@ -44,3 +44,4 @@ router.route("/data/:id").get(async (req, res) => {
 });
 
 module.exports = router;
+

@@ -19,7 +19,7 @@ module.exports = [
     bio: "With our cooking skills we can tell an entertaining story.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-02.jpg",
+    image: "http://localhost:8080/assets/chef-m19.jpg",
   },
   {
     id: 3,
@@ -151,7 +151,7 @@ module.exports = [
     bio: "A happy stomach can conquer the entire world.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-14.jpg",
+    image: "http://localhost:8080/assets/chef-m14.jpg",
   },
   {
     id: 15,
@@ -162,7 +162,7 @@ module.exports = [
     bio: "People are the most necessary ingredient of our life, without it, we can’t even think about living.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-15.jpg",
+    image: "http://localhost:8080/assets/chef-m15.jpg",
   },
   {
     id: 16,
@@ -173,7 +173,7 @@ module.exports = [
     bio: "We don’t talk ,we always let our food do the talking about our talent.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-16.jpg",
+    image: "http://localhost:8080/assets/chef-m13.jpg",
   },
   {
     id: 17,
@@ -184,7 +184,7 @@ module.exports = [
     bio: "Chefs know that cooking is not their job but the calling of life.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-17.jpg",
+    image: "http://localhost:8080/assets/chef-m17.jpg",
   },
   {
     id: 18,
@@ -195,7 +195,7 @@ module.exports = [
     bio: "We don’t talk ,we always let our food do the talking about our talent.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-18.jpg",
+    image: "http://localhost:8080/assets/chef-m18.jpg",
   },
   {
     id: 19,
@@ -217,7 +217,7 @@ module.exports = [
     bio: "We can cook what you love.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-17.jpg",
+    image: "http://localhost:8080/assets/chef-m17.jpg",
   },
   {
     id: 21,
@@ -261,7 +261,7 @@ module.exports = [
     bio: "Women chefs are built tougher than anyone else.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-13.jpg",
+    image: "http://localhost:8080/assets/chef-w16.jpg",
   },
   {
     id: 25,
@@ -272,7 +272,7 @@ module.exports = [
     bio: "Cooking is nothing but self expression.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-05.jpg",
+    image: "http://localhost:8080/assets/chef-w16.jpg",
   },
   {
     id: 26,
@@ -283,7 +283,7 @@ module.exports = [
     bio: "A recipe has no soul, you as the cook must bring soul to the recipe. – Thomas Keller",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-02.jpg",
+    image: "http://localhost:8080/assets/chef-m17.jpg",
   },
   {
     id: 27,

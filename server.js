@@ -4,15 +4,19 @@ const cors = require("cors");
 const twilio = require("twilio");
 const app = express();
 const chefsRoutes = require("./routes/chefsRoute.js");
+const imagesRoutes = require("./routes/imagesRoute.js");
+const reviewsRoutes = require("./routes/reviewsRoute.js");
+// const usersRoutes = require("./routes/usersRoute.js");
 const PORT = process.env.PORT || 8080;
+
 
 app.use(cors());
 
 app.use(express.json());
 
 //twilio api
-const accountSid = "AC560f8f833663a80987d0ce3e2cfa50bd";
-const authToken = "8af1ebdbb763f3852b50207372b9a697";
+const accountSid = process.env.ACCOUNT_SID;
+const authToken = process.env.AUTH_TOKEN;
 const client = new twilio(accountSid, authToken);
 
 //send Text
@@ -37,8 +41,17 @@ app.get("/send-text", (req, res) => {
 app.use("/assets", express.static("./assets"));
 app.use("/assets/food", express.static("./assets/food"));
 
-// //linked the warehouse routes
+// //linked the chefs Routes
 app.use("/chefs", chefsRoutes);
+
+// //linked the food images 
+app.use("/images", imagesRoutes);
+
+// //linked the food images 
+app.use("/reviews", reviewsRoutes);
+
+// //linked the users post
+// app.use("/users", usersRoutes);
 
 // basic home route
 app.get("/", (req, res) => {

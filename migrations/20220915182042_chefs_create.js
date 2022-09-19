@@ -7,14 +7,14 @@ exports.up = function (knex) {
       table.string("cuisine").notNullable();
       table.integer("rating").notNullable().defaultTo(0);
       table.string("bio").notNullable();
-      table.string("longBio").notNullable();
+      table.string("longBio", 855).notNullable();
       table.string("image").notNullable();
       table.timestamp("updated_at").defaultTo(knex.fn.now());
     })
     .createTable("reviews", (table) => {
       table.increments("id").primary();
       table.string("reviewer").notNullable();
-      table.string("description").notNullable();
+      table.string("description", 855).notNullable();
       table
         .integer("chefs_id")
         .unsigned()
