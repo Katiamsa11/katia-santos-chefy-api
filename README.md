@@ -10,6 +10,8 @@ Thank you for checking my project!
 You will need node, npm , and MYSQL already installed in your computer.
 
 1. Clone or download this repository.
+
+
 2.Create a database using MYSQL and call it the following:
 
 ```
