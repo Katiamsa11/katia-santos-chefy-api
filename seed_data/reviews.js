@@ -11,7 +11,7 @@ module.exports = [
     reviewer: "Peter Hope",
     description:
       "Many thanks for all your hard work yesterday - from the canapés to the petit fours it was excellent. The food was delicious especially the scallops and the beef and it was just great to have you around. Francesca carried out her duties wonderfully well - pleasant, efficient and unobtrusive. Thanks to you we had a great night.",
-    chefs_id: 2,
+    chefs_id: 1,
   },
   {
     id: 3,

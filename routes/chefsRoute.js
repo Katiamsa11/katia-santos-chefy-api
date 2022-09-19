@@ -29,11 +29,7 @@ router.route("/:id").get(async (req, res) => {
 
 router.route("/data/:id").get(async (req, res) => {
   try {
-    const data = await knex
-      .from("chefs")
-      .innerJoin("images", "chefs.id", "images.chefs_id")
-      .innerJoin("reviews", "chefs.id", "reviews.chefs_id")
-      .where("chefs.id", req.params.id);
+    const data = await knex.from("chefs").where("chefs.id", req.params.id);
     if (data.length === 0) {
       return res.status(404).json({ message: "chef not found" });
     }
@@ -44,4 +40,3 @@ router.route("/data/:id").get(async (req, res) => {
 });
 
 module.exports = router;
-

@@ -1,21 +1,19 @@
 const router = require("express").Router();
 const knex = require("knex")(require("../knexfile"));
 
-
-router.route("/:id/pictures").get(async (req, res) => {
+router.route("/:id/image").get(async (req, res) => {
   try {
-    const chefsData = await knex
+    const chefsImages = await knex
       .select("*")
       .from("images")
-      .where( "chef.id","image.id",req.params.id );
-    if (chefsData.length === 0) {
+      .where({ chefs_id: req.params.id });
+    if (chefsImages.length === 0) {
       return res.status(404).json({ message: "chef not found" });
     }
-    res.json(chefsData[0]);
+    res.json(chefsImages);
   } catch (error) {
     res.status(500).json({ message: "not found" });
   }
 });
 
 module.exports = router;
-

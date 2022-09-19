@@ -7,12 +7,12 @@ module.exports = [
   {
     id: 2,
     images: "http://localhost:8080/assets/food/img-03.jpg",
-    chefs_id: 2,
+    chefs_id: 1,
   },
   {
     id: 3,
     images: "http://localhost:8080/assets/food/img-04.jpg",
-    chefs_id: 3,
+    chefs_id: 1,
   },
   {
     id: 4,
