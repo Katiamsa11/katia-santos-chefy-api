@@ -6,7 +6,7 @@ const app = express();
 const chefsRoutes = require("./routes/chefsRoute.js");
 const imagesRoutes = require("./routes/imagesRoute.js");
 const reviewsRoutes = require("./routes/reviewsRoute.js");
-// const usersRoutes = require("./routes/usersRoute.js");
+const eventsRoutes = require("./routes/eventsRoute.js");
 const PORT = process.env.PORT || 8080;
 
 
@@ -50,8 +50,8 @@ app.use("/images", imagesRoutes);
 // //linked the food images 
 app.use("/reviews", reviewsRoutes);
 
-// //linked the users post
-// app.use("/users", usersRoutes);
+//linked the users post
+app.use("/events", eventsRoutes);
 
 // basic home route
 app.get("/", (req, res) => {

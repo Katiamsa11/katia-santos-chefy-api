@@ -1,0 +1,64 @@
+const router = require("express").Router();
+const knex = require("knex")(require("../knexfile"));
+
+//post a booking
+router.route("/").post(async (req, res) => {
+  try {
+    const result = await knex("bookings").insert({
+      fullName: req.body.fullName,
+      phone: req.body.phone,
+      eventName: req.body.eventName,
+      eventAddress: req.body.eventAddress,
+      eventDate: req.body.eventDate,
+      restrictions: req.body.restrictions,
+      guests: req.body.guests,
+      details: req.body.details,
+    });
+
+    const createdBookings = await knex("bookings").where({ id: result[0] });
+
+    res.status(201).json(createdBookings);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ message: "Unable to create booking" });
+  }
+});
+
+//get booking based on the chef ID
+
+router.route("/").get(async (req, res) => {
+  try {
+    const bookingsData = await knex
+      .select(
+        "id",
+        "fullName",
+        "eventName",
+        "eventAddress",
+        "guests",
+        "details"
+      )
+      .from("bookings");
+    res.json(bookingsData);
+  } catch (error) {
+    res.status(500).json({ message: "unable to retrieve data" });
+  }
+});
+
+//delete a booking based on the chef ID
+router.route("/:id").delete(async (req, res) => {
+  try {
+    const result = await knex("bookings").where({ id: req.params.id }).del();
+
+    if (result === 0) {
+      return res
+        .status(400)
+        .json({ message: "booking not found, so could not delete" });
+    }
+
+    res.status(204).send();
+  } catch (error) {
+    res.status(500).json({ message: "Unable to delete booking" });
+  }
+});
+
+module.exports = router;
