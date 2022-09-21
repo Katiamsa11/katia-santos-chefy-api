@@ -6,12 +6,12 @@ router.route("/").post(async (req, res) => {
   try {
     const result = await knex("bookings").insert({
       fullName: req.body.fullName,
-      phone: req.body.phone,
       eventName: req.body.eventName,
       eventAddress: req.body.eventAddress,
       eventDate: req.body.eventDate,
-      restrictions: req.body.restrictions,
       guests: req.body.guests,
+      price: req.body.price,
+      restrictions: req.body.restrictions,
       details: req.body.details,
     });
 

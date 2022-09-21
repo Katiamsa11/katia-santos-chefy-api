@@ -6,11 +6,11 @@ exports.up = function (knex) {
   return knex.schema.createTable("bookings", function (table) {
     table.increments("id");
     table.string("fullName").notNullable();
-    table.string("phone").notNullable();
     table.string("eventName").notNullable();
     table.string("eventAddress", 555).notNullable();
     table.string("eventDate").notNullable();
     table.integer("guests").unsigned().notNullable();
+    table.string("price", 555).notNullable();
     table.string("restrictions", 555).notNullable();
     table.string("details", 555).notNullable();
   });
