@@ -7,7 +7,7 @@ module.exports = [
     rating: 4.8,
     bio: "Cooking does not need any instructions or rules.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Emmy award-winning public television host, best‐selling cookbook author, restaurateur, and owner of a flourishing food and entertainment business. Chef has married her two passions in life—family and food—to create multiple culinary endeavors alongside her two children, Joe and Tanya.Chef is the chef/owner of four acclaimed New York City restaurants—Felidia, Becco, Esca, and Del Posto—as well as Lidia’s Pittsburgh and Lidia’s Kansas City with her daughter Tanya. She is the founder and president of Tavola Productions, an entertainment company that produces high-quality broadcast programs.",
     image: "http://localhost:8080/assets/chef-01.jpg",
   },
   {
@@ -18,7 +18,7 @@ module.exports = [
     rating: 5.0,
     bio: "With our cooking skills we can tell an entertaining story.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "As Executive Chef of Sanctuary on Camelback Mountain Resort & Spa and its signature restaurant, elements, Chef inspires his staff with his passion for fresh ingredients.  His ingenuity in the kitchen is stimulated by his belief that food should not be overworked, but rather appreciated for its simplicity and natural perfection. This philosophy is evident in Chef innovative seasonal menus that focus on fresh, local ingredients procured from a network of artisans and organic farmers",
     image: "http://localhost:8080/assets/chef-02.jpg",
   },
   {
@@ -40,7 +40,7 @@ module.exports = [
     rating: 4.1,
     bio: "A chef doesn’t have a proper roadmap to walk on the path of being a great cook.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Canadian chef who specializes in traditional Mexican cuisine. An Oklahoma native, was raised in a family of barbecue restaurateurs, and his training began early. While studying Spanish and Latin American culture, he grew interested in the cuisines of the regions.",
     image: "http://localhost:8080/assets/chef-04.jpg",
   },
   {
@@ -51,7 +51,7 @@ module.exports = [
     rating: 4.0,
     bio: "Always try to cook good food with fresh ingredients.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef has had the honor to cook at the James Beard House many times over the years. She contributes to many charitable causes, including, The American Brain Foundation, Alex's Lemonade Stand, Women Against Abuse, No Kid Hungry, March of Dimes, Make-A-Wish, D.C. Central Kitchen, Sips & Suppers plus many more.",
     image: "http://localhost:8080/assets/chef-05.jpg",
   },
   {
@@ -73,7 +73,7 @@ module.exports = [
     rating: 3.8,
     bio: "Cooking is a great art that requires taste and also proper measurements.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Many cooks claim to be “self taught”. There is a certain machismo in shunning the establishment, in doing what I want, the way I want it. But I am humble enough to admit that there are nuances & techniques that only a formal education can provide. When given the chance to enroll in the nationally renowned culinary arts program at Schoolcraft College, I jumped on it. It was literally a dream come true. A culinary arts degree provided me the tools to dream, plan, and execute what has been simmering for a long time.",
     image: "http://localhost:8080/assets/chef-07.jpg",
   },
   {
@@ -95,7 +95,7 @@ module.exports = [
     rating: 4.9,
     bio: "I can take care of your empty stomach.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef Jaques is a graduate of the French Culinary Institute in New York City where he was trained by world-renowned chefs including Andre Soltner, Jacques Pepin, and Alain Saihac. His background, training, and living experiences have enabled him to speak five languages and specialize in Classic French, Lebanese and Greek cuisine as well as Canadian Haute Cuisine. For the last eight years, Chef Covelli has been the guest chef at the Senior PGA for KitchenAid.",
     image: "http://localhost:8080/assets/chef-09.jpg",
   },
   {
@@ -117,7 +117,7 @@ module.exports = [
     rating: 3.5,
     bio: "Chefs believe that their original target is taking care of others.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef was raised in Niagara, ON and is a graduate of The Culinary Institute of America. His culinary style is influenced by time spent in world class kitchens, using local ingredients with international technique. After spending time teaching at the Toscana Saporita cooking school in Tuscany, Italy, Brett moved to Sarasota, Florida to work under Chef Chris Covelli to open Sage, which has now become the Realm Restaurant Group. Brett worked his way up in under two years to be the executive sous chef of the restaurant Group. Now he is back in Canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-11.jpg",
   },
   {
@@ -128,7 +128,7 @@ module.exports = [
     rating: 4.5,
     bio: "Good food is the best gift we can offer.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef honed his cooking craft serving as executive chef of Lacroix at the Rittenhouse Hotel when he was just 24 years old. During his tenure, Lacroix was one of the city’s few to be honored with “Four Bells: Superior” status by the Philadelphia Inquirer’s revered restaurant critic, Craig LaBan. Before his success at Lacroix, Cichonski worked in other highly praised kitchens, including the Pluckemin Inn, a contemporary American restaurant in Bedminster, NJ and Moonlight, a progressive American restaurant in New Hope, PA. Most recently, Cichonski had the opportunity to further showcase and refine his cooking skills as a contestant on the popular Bravo TV cooking competition, Top Chef. Now he is in canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-12.jpg",
   },
   {
@@ -139,7 +139,7 @@ module.exports = [
     rating: 4.5,
     bio: "We don’t talk ,we always let our food do the talking about our talent.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef has had the honor to cook at the James Beard House many times over the years. She contributes to many charitable causes, including, The American Brain Foundation, Alex's Lemonade Stand, Women Against Abuse, No Kid Hungry, March of Dimes, Make-A-Wish, D.C. Central Kitchen, Sips & Suppers plus many more.",
     image: "http://localhost:8080/assets/chef-w20.jpg",
   },
   {
@@ -172,7 +172,7 @@ module.exports = [
     rating: 3.9,
     bio: "We don’t talk ,we always let our food do the talking about our talent.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef honed his cooking craft serving as executive chef of Lacroix at the Rittenhouse Hotel when he was just 24 years old. During his tenure, Lacroix was one of the city’s few to be honored with “Four Bells: Superior” status by the Philadelphia Inquirer’s revered restaurant critic, Craig LaBan. Before his success at Lacroix, Cichonski worked in other highly praised kitchens, including the Pluckemin Inn, a contemporary American restaurant in Bedminster, NJ and Moonlight, a progressive American restaurant in New Hope, PA. Most recently, Cichonski had the opportunity to further showcase and refine his cooking skills as a contestant on the popular Bravo TV cooking competition, Top Chef. Now he is in canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-m13.jpg",
   },
   {
@@ -184,7 +184,7 @@ module.exports = [
     bio: "Chefs know that cooking is not their job but the calling of life.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-m17.jpg",
+    image: "http://localhost:8080/assets/chef-w16.jpg",
   },
   {
     id: 18,
@@ -205,7 +205,7 @@ module.exports = [
     rating: 4.6,
     bio: "Chefs know that cooking is not their job but the calling of life.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef was raised in Niagara, ON and is a graduate of The Culinary Institute of America. His culinary style is influenced by time spent in world class kitchens, using local ingredients with international technique. After spending time teaching at the Toscana Saporita cooking school in Tuscany, Italy, Brett moved to Sarasota, Florida to work under Chef Chris Covelli to open Sage, which has now become the Realm Restaurant Group. Brett worked his way up in under two years to be the executive sous chef of the restaurant Group. Now he is back in Canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-w16.jpg",
   },
   {
@@ -217,7 +217,7 @@ module.exports = [
     bio: "We can cook what you love.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-21.jpg",
+    image: "http://localhost:8080/assets/chef-m21.jpg",
   },
   {
     id: 21,
@@ -238,7 +238,7 @@ module.exports = [
     rating: 3.7,
     bio: "I am proud to be a chef ,I bring happiness for your stomach.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef honed his cooking craft serving as executive chef of Lacroix at the Rittenhouse Hotel when he was just 24 years old. During his tenure, Lacroix was one of the city’s few to be honored with “Four Bells: Superior” status by the Philadelphia Inquirer’s revered restaurant critic, Craig LaBan. Before his success at Lacroix, Cichonski worked in other highly praised kitchens, including the Pluckemin Inn, a contemporary American restaurant in Bedminster, NJ and Moonlight, a progressive American restaurant in New Hope, PA. Most recently, Cichonski had the opportunity to further showcase and refine his cooking skills as a contestant on the popular Bravo TV cooking competition, Top Chef. Now he is in canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-10.jpg",
   },
   {
@@ -249,7 +249,7 @@ module.exports = [
     rating: 4.7,
     bio: "Cooking is a great art that requires taste and also proper measurements.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef was raised in Niagara, ON and is a graduate of The Culinary Institute of America. His culinary style is influenced by time spent in world class kitchens, using local ingredients with international technique. After spending time teaching at the Toscana Saporita cooking school in Tuscany, Italy, Brett moved to Sarasota, Florida to work under Chef Chris Covelli to open Sage, which has now become the Realm Restaurant Group. Brett worked his way up in under two years to be the executive sous chef of the restaurant Group. Now he is back in Canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-11.jpg",
   },
   {
@@ -260,7 +260,7 @@ module.exports = [
     rating: 4.5,
     bio: "Women chefs are built tougher than anyone else.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef has had the honor to cook at the James Beard House many times over the years. She contributes to many charitable causes, including, The American Brain Foundation, Alex's Lemonade Stand, Women Against Abuse, No Kid Hungry, March of Dimes, Make-A-Wish, D.C. Central Kitchen, Sips & Suppers plus many more.",
     image: "http://localhost:8080/assets/chef-w16.jpg",
   },
   {
@@ -271,7 +271,7 @@ module.exports = [
     rating: 4.5,
     bio: "Cooking is nothing but self expression.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Emmy award-winning public television host, best‐selling cookbook author, restaurateur, and owner of a flourishing food and entertainment business. Chef has married her two passions in life—family and food—to create multiple culinary endeavors alongside her two children, Joe and Tanya.Chef is the chef/owner of four acclaimed New York City restaurants—Felidia, Becco, Esca, and Del Posto—as well as Lidia’s Pittsburgh and Lidia’s Kansas City with her daughter Tanya. She is the founder and president of Tavola Productions, an entertainment company that produces high-quality broadcast programs.",
     image: "http://localhost:8080/assets/chef-w20.jpg",
   },
   {
@@ -282,7 +282,7 @@ module.exports = [
     rating: 4.5,
     bio: "A recipe has no soul, you as the cook must bring soul to the recipe. – Thomas Keller",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef honed his cooking craft serving as executive chef of Lacroix at the Rittenhouse Hotel when he was just 24 years old. During his tenure, Lacroix was one of the city’s few to be honored with “Four Bells: Superior” status by the Philadelphia Inquirer’s revered restaurant critic, Craig LaBan. Before his success at Lacroix, Cichonski worked in other highly praised kitchens, including the Pluckemin Inn, a contemporary American restaurant in Bedminster, NJ and Moonlight, a progressive American restaurant in New Hope, PA. Most recently, Cichonski had the opportunity to further showcase and refine his cooking skills as a contestant on the popular Bravo TV cooking competition, Top Chef. Now he is in canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-m17.jpg",
   },
   {
@@ -293,7 +293,7 @@ module.exports = [
     rating: 3.2,
     bio: "Cooking is love made visible.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef Ian grew up in the kitchen of his parents’ home in Toronto,Ontario. At a very young age, he learned to cook with his mother, Karole, in the kitchen and with his father, Jerry, on the back patio.  Karole is amazing in the kitchen and spoiled her family with incredible food, as she still does today.  Chance was by her side for as long as he can remember learning the nuances of how to prepare a great meal.  Outside, Ian loved to smoke ribs with Jerry on his custom built, off-set smoker.",
     image: "http://localhost:8080/assets/chef-03.jpg",
   },
   {
@@ -315,7 +315,7 @@ module.exports = [
     rating: 4.5,
     bio: "Chefs believe that their original target is taking care of others.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef honed his cooking craft serving as executive chef of Lacroix at the Rittenhouse Hotel when he was just 24 years old. During his tenure, Lacroix was one of the city’s few to be honored with “Four Bells: Superior” status by the Philadelphia Inquirer’s revered restaurant critic, Craig LaBan. Before his success at Lacroix, Cichonski worked in other highly praised kitchens, including the Pluckemin Inn, a contemporary American restaurant in Bedminster, NJ and Moonlight, a progressive American restaurant in New Hope, PA. Most recently, Cichonski had the opportunity to further showcase and refine his cooking skills as a contestant on the popular Bravo TV cooking competition, Top Chef. Now he is in canada and ready to cook for you!",
     image: "http://localhost:8080/assets/chef-09.jpg",
   },
   {
@@ -326,7 +326,7 @@ module.exports = [
     rating: 4.5,
     bio: "Boring recipes can make you sad, so always try to make some interesting cuisine.",
     longBio:
-      "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
+      "Chef has had the honor to cook at the James Beard House many times over the years. She contributes to many charitable causes, including, The American Brain Foundation, Alex's Lemonade Stand, Women Against Abuse, No Kid Hungry, March of Dimes, Make-A-Wish, D.C. Central Kitchen, Sips & Suppers plus many more.",
     image: "http://localhost:8080/assets/chef-01.jpg",
   },
 ];
