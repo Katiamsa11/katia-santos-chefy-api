@@ -8,7 +8,7 @@ module.exports = [
     bio: "Cooking does not need any instructions or rules.",
     longBio:
       "Emmy award-winning public television host, best‐selling cookbook author, restaurateur, and owner of a flourishing food and entertainment business. Chef has married her two passions in life—family and food—to create multiple culinary endeavors alongside her two children, Joe and Tanya.Chef is the chef/owner of four acclaimed New York City restaurants—Felidia, Becco, Esca, and Del Posto—as well as Lidia’s Pittsburgh and Lidia’s Kansas City with her daughter Tanya. She is the founder and president of Tavola Productions, an entertainment company that produces high-quality broadcast programs.",
-    image: "http://localhost:8080/assets/chef-01.jpg",
+    image: "https://chefy-chefs-delivered.herokuapp.com/assets/chef-01.jpg",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ module.exports = [
     bio: "With our cooking skills we can tell an entertaining story.",
     longBio:
       "As Executive Chef of Sanctuary on Camelback Mountain Resort & Spa and its signature restaurant, elements, Chef inspires his staff with his passion for fresh ingredients.  His ingenuity in the kitchen is stimulated by his belief that food should not be overworked, but rather appreciated for its simplicity and natural perfection. This philosophy is evident in Chef innovative seasonal menus that focus on fresh, local ingredients procured from a network of artisans and organic farmers",
-    image: "http://localhost:8080/assets/chef-02.jpg",
+    image: "https://chefy-chefs-delivered.herokuapp.com/assets/chef-02.jpg",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ module.exports = [
     bio: "A happy stomach can conquer the entire world.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
-    image: "http://localhost:8080/assets/chef-03.jpg",
+    image: "https://chefy-chefs-delivered.herokuapp.com/assets/chef-03.jpg",
   },
   {
     id: 4,
