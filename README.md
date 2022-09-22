@@ -23,7 +23,7 @@ chefyData
 npm install
 ```
 
-4. Update ./knex.js file with your connection details and database to match.
+4. Update .env_example file or ./knexfile.js file with your connection details and database to match.
 
 ```
 PORT = <PORT_NUMBER>
