@@ -126,7 +126,7 @@ module.exports = [
   },
   {
     id: 26,
-    images: "http://localhost:8080/assets/food/img-26.jpg",
+    images: "http://localhost:8080/assets/food/img-14.jpg",
     chefs_id: 7,
   },
   {
@@ -276,7 +276,7 @@ module.exports = [
   },
   {
     id: 56,
-    images: "http://localhost:8080/assets/food/img-26.jpg",
+    images: "http://localhost:8080/assets/food/img-18.jpg",
     chefs_id: 14,
   },
   {
@@ -421,7 +421,7 @@ module.exports = [
   },
   {
     id: 85,
-    images: "http://localhost:8080/assets/food/img-26.jpg",
+    images: "http://localhost:8080/assets/food/img-08.jpg",
     chefs_id: 22,
   },
   {
@@ -571,17 +571,12 @@ module.exports = [
   },
   {
     id: 115,
-    images: "http://localhost:8080/assets/food/img-26.jpg",
+    images: "http://localhost:8080/assets/food/img-05.jpg",
     chefs_id: 29,
   },
   {
     id: 116,
     images: "http://localhost:8080/assets/food/img-27.jpg",
-    chefs_id: 29,
-  },
-  {
-    id: 117,
-    images: "http://localhost:8080/assets/food/img-28.jpg",
     chefs_id: 29,
   },
   {
