@@ -34,8 +34,10 @@ router.route("/").get(async (req, res) => {
         "fullName",
         "eventName",
         "eventAddress",
+        "eventDate",
         "guests",
-        "details"
+        "price",
+        "restrictions"
       )
       .from("bookings");
     res.json(bookingsData);

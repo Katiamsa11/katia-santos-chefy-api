@@ -8,7 +8,9 @@ router.route("/:id/image").get(async (req, res) => {
       .from("images")
       .where({ chefs_id: req.params.id });
     if (chefsImages.length === 0) {
-      return res.status(404).json({ message: "chef not found" });
+      return res
+        .status(404)
+        .json({ message: "image that matches chef not found" });
     }
     res.json(chefsImages);
   } catch (error) {
