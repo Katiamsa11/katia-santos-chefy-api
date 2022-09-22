@@ -9,7 +9,6 @@ const reviewsRoutes = require("./routes/reviewsRoute.js");
 const eventsRoutes = require("./routes/eventsRoute.js");
 const PORT = process.env.PORT || 8080;
 
-
 app.use(cors());
 
 app.use(express.json());
@@ -44,10 +43,10 @@ app.use("/assets/food", express.static("./assets/food"));
 // //linked the chefs Routes
 app.use("/chefs", chefsRoutes);
 
-// //linked the food images 
+// //linked the food images
 app.use("/images", imagesRoutes);
 
-// //linked the food images 
+// //linked the food images
 app.use("/reviews", reviewsRoutes);
 
 //linked the users post
