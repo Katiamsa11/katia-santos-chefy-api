@@ -44,7 +44,7 @@ module.exports = [
   {
     id: 8,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.JPG",
     chefs_id: 2,
   },
   {
