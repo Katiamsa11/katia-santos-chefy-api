@@ -3,6 +3,19 @@ const knex = require("knex")(require("../knexfile"));
 
 //post a booking
 router.route("/").post(async (req, res) => {
+  // Validate the request body for required data
+  if (
+    !req.body.fullName ||
+    !req.body.eventName ||
+    !req.body.eventAddress ||
+    !req.body.eventDate ||
+    !req.body.guests ||
+    !req.body.price ||
+    !req.body.restrictions ||
+    !req.body.details
+  ) {
+    return res.status(400).send("Please make sure to provide all fields");
+  }
   try {
     const result = await knex("bookings").insert({
       fullName: req.body.fullName,
