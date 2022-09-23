@@ -26,13 +26,13 @@ module.exports = [
   {
     id: 5,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-05.JPG",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-05.jpg",
     chefs_id: 2,
   },
   {
     id: 6,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-06.JPG",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-06.jpg",
     chefs_id: 2,
   },
   {
@@ -44,13 +44,13 @@ module.exports = [
   {
     id: 8,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.JPG",
     chefs_id: 2,
   },
   {
     id: 9,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.JPG",
     chefs_id: 3,
   },
   {
@@ -224,13 +224,13 @@ module.exports = [
   {
     id: 38,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.JPG",
     chefs_id: 10,
   },
   {
     id: 39,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.JPG",
     chefs_id: 10,
   },
   {
@@ -380,13 +380,13 @@ module.exports = [
   {
     id: 64,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-05.JPG",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-05.jpg",
     chefs_id: 16,
   },
   {
     id: 65,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-06.JPG",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-06.jpg",
     chefs_id: 17,
   },
   {
@@ -398,13 +398,13 @@ module.exports = [
   {
     id: 67,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.JPG",
     chefs_id: 17,
   },
   {
     id: 68,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.JPG",
     chefs_id: 17,
   },
   {
@@ -506,7 +506,7 @@ module.exports = [
   {
     id: 85,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.JPG",
     chefs_id: 22,
   },
   {
@@ -578,13 +578,13 @@ module.exports = [
   {
     id: 97,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-08.JPG",
     chefs_id: 25,
   },
   {
     id: 98,
     images:
-      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.jpg",
+      "https://chefy-chefs-delivered.herokuapp.com/assets/food/img-09.JPG",
     chefs_id: 25,
   },
   {
