@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const knex = require("knex")(require("../knexfile"));
 
+//get reviews associated with each specific chef
+
 router.route("/:id/review").get(async (req, res) => {
   try {
     const chefsReviews = await knex

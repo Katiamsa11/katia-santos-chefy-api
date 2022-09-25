@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const knex = require("knex")(require("../knexfile"));
 
+//get images associated with each specific chef 
+
 router.route("/:id/image").get(async (req, res) => {
   try {
     const chefsImages = await knex

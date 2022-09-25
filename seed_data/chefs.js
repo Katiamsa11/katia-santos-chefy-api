@@ -156,7 +156,7 @@ module.exports = [
   {
     id: 15,
     name: "Javier Roeder",
-    location: "Toronto",
+    location: "Montreal",
     cuisine: "Mexican and Indian",
     rating: 4.5,
     bio: "People are the most necessary ingredient of our life, without it, we can’t even think about living.",
@@ -178,7 +178,7 @@ module.exports = [
   {
     id: 17,
     name: "Rachel Ryan",
-    location: "Montreal",
+    location: "Toronto",
     cuisine: "Mexican and Vietnamese",
     rating: 4.8,
     bio: "Chefs know that cooking is not their job but the calling of life.",

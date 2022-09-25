@@ -1,6 +1,7 @@
 const router = require("express").Router();
 const knex = require("knex")(require("../knexfile"));
 
+//get all chefs information 
 router.route("/").get(async (req, res) => {
   try {
     const chefsData = await knex
@@ -12,6 +13,7 @@ router.route("/").get(async (req, res) => {
   }
 });
 
+//get chefs by id information 
 router.route("/:id").get(async (req, res) => {
   try {
     const chefsData = await knex
@@ -27,6 +29,7 @@ router.route("/:id").get(async (req, res) => {
   }
 });
 
+//get specific chef information by id 
 router.route("/data/:id").get(async (req, res) => {
   try {
     const data = await knex.from("chefs").where("chefs.id", req.params.id);

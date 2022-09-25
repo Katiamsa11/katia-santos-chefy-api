@@ -1,7 +1,19 @@
-# ABOUT CHEFY
+## About Chefy
 
-Chefy is a web-based platform to connect chefs with households for private in-home dining experiences. Clients can search for and book the chef best suited for their event. Tools used: React, Sass, CSS-grid, Node, Express and MySQL for the database.
-Thank you for checking my project!
+Chefy is a web-based platform to connect chefs with households for private in-home dining experiences. Clients can search for and book the chef best suited for their event.
+
+## 💻 Main tech Tools used for this project
+
+Git & GitHub
+
+### Back-End
+
+Node/Express
+
+#### Database
+
+Knex/MySQL
+
 
 ## SET UP BACK-END
 
@@ -11,7 +23,7 @@ You will need node, npm , and MYSQL already installed in your computer.
 
 1. Clone or download this repository.
 
-2.Create a database using MYSQL and call it the following:
+2. Create a database using MYSQL and call it the following:
 
 ```
 chefyData
