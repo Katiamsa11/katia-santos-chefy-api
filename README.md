@@ -34,8 +34,15 @@ chefyData
 ```
 npm install
 ```
+4. Create a free Twilio account to generate the following:
+```
+Auth Token 
 
-4. Update .env_example file or ./knexfile.js file with your connection details and database to match.
+Account Sid 
+
+```
+
+5. Update .env_example file or ./knexfile.js file with your connection details and database to match.
 
 ```
 PORT = <PORT_NUMBER>
@@ -43,21 +50,23 @@ DB_HOST = <HOST_ADDRESS>
 DB_USER = <YOUR DB USERNAME>
 DB_PASSWORD = <YOUR DB PASSWORD>
 DB_DATABASE = chefyData
+ACCOUNT_SID = <YOUR ACCOUNT SID GENERATED FROM CREATING A TWILIO ACCOUNT>
+AUTH_TOKEN = <YOUR AUTH TOKEN GENERATED FROM CREATING A TWILIO ACCOUNT>
 ```
 
-5.Run migrations file.
+6.Run migrations file.
 
 ```
 npm run migrate or npx knex migrate:latest
 ```
 
-6. Run seed file to populate data on the database.
+7. Run seed file to populate data on the database.
 
 ```
 npm run seed or npx knex seed:run
 ```
 
-7. Start the server.
+8. Start the server.
 
 ```
 npm run dev or node server.js
