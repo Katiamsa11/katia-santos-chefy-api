@@ -44,6 +44,8 @@ Account Sid
 
 5. Update .env_example file or ./knexfile.js file with your connection details and database to match.
 
+If using the .env_example file make sure to rename it to .env
+
 ```
 PORT = <PORT_NUMBER>
 DB_HOST = <HOST_ADDRESS>
