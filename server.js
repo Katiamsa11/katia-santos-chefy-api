@@ -9,13 +9,7 @@ const reviewsRoutes = require("./routes/reviewsRoute.js");
 const eventsRoutes = require("./routes/eventsRoute.js");
 const PORT = process.env.PORT || 8080;
 
-app.use(
-  cors({
-    origin: ["https://chefsdelivered.netlify.app"],
-    methods: ["GET", "POST"],
-    credentials: true,
-  })
-);
+app.use(cors());
 
 app.use(express.json());
 
