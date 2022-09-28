@@ -17,7 +17,7 @@ module.exports = [
     id: 3,
     reviewer: "lucio T.",
     description:
-      "Many thanks for all your hard work yesterday - from the canapés to the petit fours it was excellent. The food was delicious especially the scallops and the beef and it was just great to have you around. Francesca carried out her duties wonderfully well - pleasant, efficient and unobtrusive. Thanks to you we had a great night.",
+      "The food was absolutely fantastic! she cooked and served a sit down dinner for 23 people. To a person everyone agreed it was an unbelievably delicious dinner. Honestly, people raved about the food. The service was also excellent and they left the kitchen cleaner than they found it. I would highly recommend her services for any event. She is a pro and can handle it all.",
     chefs_id: 1,
   },
   {
@@ -416,7 +416,7 @@ module.exports = [
     id: 60,
     reviewer: "Adam'S I.",
     description:
-      "Incredible experience for a surprise party for 5 couples. Truly amazing. Lucas is very detail oriented and has the right experience to create a very high end dinner party at a reasonable price. His background and experience make him the perfect person to create your vision. Super flexible and accommodating with regards to menu planning and helping achieve my vision!",
+      "Incredible experience for a surprise party for 5 couples. Truly amazing. Very detail oriented and has the right experience to create a very high end dinner party at a reasonable price. His background and experience make him the perfect person to create your vision. Super flexible and accommodating with regards to menu planning and helping achieve my vision!",
     chefs_id: 30,
   },
   {

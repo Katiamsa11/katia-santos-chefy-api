@@ -60,7 +60,7 @@ module.exports = [
     location: "Ottawa",
     cuisine: "Spanish and French",
     rating: 3.2,
-    bio: "Cutting – chopping – sauté – fry – –I am in love with these!",
+    bio: "Cutting, chopping, sauté, fry. I am in love with these cooking techniques!",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
     image: "https://chefy-chefs-delivered.herokuapp.com/assets/chef-06.jpg",
@@ -82,7 +82,7 @@ module.exports = [
     location: "Muskoka",
     cuisine: "French and Italian",
     rating: 4.4,
-    bio: "ur great cooking comes from the special inspiration from many simple things around us.",
+    bio: "My great cooking comes from the special inspiration from many simple things around us.",
     longBio:
       "I was born into an environment where love and respect for food and for healthy produce was one of the pillars of my family education. Even as a child, I spent a lot of time in the kitchen with my mother, while my father, a pioneer in organic farming, began to pass on to me the values of nature.Born in Switzerland and having grown up in Italy, I was 17 when I finished my training at catering school, and I had my first professional experience at Hotel Danieli in Venice. For a year, I had the opportunity of working and of learning alongside the chef Augusto Borghese, enabling me to discover the colours of a refined cuisine.",
     image: "https://chefy-chefs-delivered.herokuapp.com/assets/chef-08.jpg",
