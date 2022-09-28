@@ -3,14 +3,14 @@ module.exports = [
     id: 1,
     reviewer: "Jonathan Simpson",
     description:
-      "Everything went brilliantly the surprise worked perfectly and Steve was fabulous. Not only a great cook but he chatted to everybody throughout the evening answering all their questions. He looked after everybody really well and the food was terrific. Thanks for setting it all up and you can be assured that if I try this again you will be top of my list.",
+      "Everything went brilliantly the surprise worked perfectly and Steve was fabulous. Not only a great cook but she chatted to everybody throughout the evening answering all their questions. She looked after everybody really well and the food was terrific. Thanks for setting it all up and you can be assured that if I try this again you will be top of my list.",
     chefs_id: 1,
   },
   {
     id: 2,
     reviewer: "Peter Hope",
     description:
-      "Many thanks for all your hard work yesterday - from the canapés to the petit fours it was excellent. The food was delicious especially the scallops and the beef and it was just great to have you around. Francesca carried out her duties wonderfully well - pleasant, efficient and unobtrusive. Thanks to you we had a great night.",
+      "Many thanks for all your hard work yesterday - from the canapés to the petit fours it was excellent. The food was delicious especially the scallops and the beef and it was just great to have you around. She carried out her duties wonderfully well - pleasant, efficient and unobtrusive. Thanks to you we had a great night.",
     chefs_id: 1,
   },
   {
